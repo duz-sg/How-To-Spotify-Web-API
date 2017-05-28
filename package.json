@@ -1,0 +1,9 @@
+{
+  "author": "Du Zheng",
+  "name": "How-To-Spotify-Web-API",
+  "description": "Guide to use Spotify API",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~4.0.0"
+  }
+}
